@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Catnatsuki!
 
-### I'm a tech nerd and aspiring developer. I try to make something interesting from time to time. 🤓
+### I'm a tech nerd and aspiring developer, mostly working on random stuff that I find interesting.
 
-#### Currently trying to work on a few idea I have and maybe there'll be an update about those here soon. 😉
+#### Most stuff I think should be public can be found here. :DD
 
 <!--
 **Catnatsuki/Catnatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
